@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+
+# Simple DeFi Token Contract Address: Sepolia
+0x007c8D58Cc1e675A3D8dd2Fb4Cf5aA8D7d6dB78F
